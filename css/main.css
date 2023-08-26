@@ -145,6 +145,19 @@ a {
     text-align: center !important;
 }
 
+/* Servicios */
+/* Aplica el efecto de zoom en hover */
+/* Agrega una transición suave al efecto de zoom en hover */
+.service-column {
+  transition: transform 0.3s ease; /* Ajusta la duración y la función de temporización según tus preferencias */
+}
+
+/* Aplica el efecto de zoom suave en hover */
+.service-column:hover {
+  transform: scale(1.05); /* Puedes ajustar el valor para controlar el nivel de zoom */
+}
+
+
 /* Etiquetas */
 .badge {
     transition: transform 0.2s ease-in-out;
