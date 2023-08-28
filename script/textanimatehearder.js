@@ -4,3 +4,4 @@ window.addEventListener("load", function () {
         title[i].classList.add("animate__fadeInDown");
     }
 });
+

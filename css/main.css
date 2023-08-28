@@ -36,7 +36,7 @@ a {
 
 /* Botones */
 .hover-effect {
-    background-color: #feadce;
+    background-color: #020b8a;
     border: none;
     color: white;
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
@@ -265,3 +265,5 @@ a{
       opacity: 0;
     }
   }
+
+
